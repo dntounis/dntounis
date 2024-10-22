@@ -24,6 +24,6 @@ I'm an experimental particle physicist at Stanford University & SLAC National Ac
 - 🤖 **Machine Learning for Particle Physics**
 
 ### How to reach me:
-- <a href="https://twitter.com/dimntounis" target="_blank">LinkedIn</a>
-- <a href="https://www.linkedin.com/in/dimitris-ntounis-76645b269/" target="_blank">Twitter</a>
+- [LinkedIn](https://www.linkedin.com/in/dimitris-ntounis-76645b269/)
+- [Twitter](https://twitter.com/dimntounis)
 
