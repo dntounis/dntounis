@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm an experimental particle physicist at Stanford University & SLAC National Accelerator Lab working on the ATLAS experiment at the CERN Large Hadron Collider and future electron-positron colliders.
 
 ### Main Projects I'm currently involved in:
-- 🌌 **[ATLAS](atlas.cern) Experiment** at the CERN LHC
+- 🌌 **[ATLAS](https://atlas.cern/) Experiment** at the CERN LHC
 - 🎆 **[Cool Copper Collider](https://web.slac.stanford.edu/c3/)**
 - 🤖 **Machine Learning for Particle Physics**
 
